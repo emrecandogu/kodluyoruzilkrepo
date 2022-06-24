@@ -5,7 +5,7 @@
 ## Installation
 Projeyi klonlamak için;
 ```
-[  https://github.com/emrecandogu/kodluyoruzilkrepo.git](https://github.com/emrecandogu/kodluyoruzilkrepo.git)
+[ git clone https://github.com/emrecandogu/kodluyoruzilkrepo.git](https://github.com/emrecandogu/kodluyoruzilkrepo.git)
 ```
 
 ---
